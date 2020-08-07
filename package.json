@@ -1,0 +1,15 @@
+{
+  "name": "gta5-api",
+  "version": "1.0.0",
+  "description": "GTA 5 DB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Kersten",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "type": "module"
+}
